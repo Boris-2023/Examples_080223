@@ -1,0 +1,15 @@
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/bin/Debug/net6.0/ref/Example001_HelloConsole.dll
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/home/boris/GB/Programming languages basics C#/Lectures 1/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
